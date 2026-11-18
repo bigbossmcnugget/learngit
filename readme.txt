@@ -5,3 +5,4 @@ Git on tasuta ja avatud lähtekoodiga.
 Git tracks changes in files.
 Git has a mutable index called stage.
 Main haru: lisan LICENSE märkme.
+Creating a new branch is quick.
